@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/CarbonIQ/static/css/main.e6c13ad2.css",
+    "main.js": "/CarbonIQ/static/js/main.fcb8378f.js",
+    "static/js/453.3852239a.chunk.js": "/CarbonIQ/static/js/453.3852239a.chunk.js",
+    "index.html": "/CarbonIQ/index.html",
+    "main.e6c13ad2.css.map": "/CarbonIQ/static/css/main.e6c13ad2.css.map",
+    "main.fcb8378f.js.map": "/CarbonIQ/static/js/main.fcb8378f.js.map",
+    "453.3852239a.chunk.js.map": "/CarbonIQ/static/js/453.3852239a.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e6c13ad2.css",
+    "static/js/main.fcb8378f.js"
+  ]
+}
